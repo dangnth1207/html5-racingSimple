@@ -1,1 +1,8 @@
-# html5-racingSimple
+# Simple Game with Html5
+<img src="https://imgur.com/LKPNE8V">
+
+## Technical
+- VS Code
+- HTML5, JS, Jquery
+- Git
+
