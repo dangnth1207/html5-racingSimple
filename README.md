@@ -1,8 +1,6 @@
 # Simple Game with Html5
 
-Game
-
-<img src="https://imgur.com/LKPNE8V">
+<img src="https://imgur.com/LKPNE8V.png">
 
 ## Technical
 - VS Code
